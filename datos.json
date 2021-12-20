@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "name": "Piña Colada",
+      "price": 12,
+      "units": 32,
+      "id": 1
+    }
+  ]
+}
